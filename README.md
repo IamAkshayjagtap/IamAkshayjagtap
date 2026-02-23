@@ -4,18 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AWS+%26+DevOps+Enthusiast;Cloud+Learner;Future+DevOps+Engineer;Automation+%7C+CI%2FCD+%7C+Kubernetes" />
 </p>
 
----
-
-###  About Me:
-
--  DevOps & Cloud Enthusiast (Fresher)
--  Learning **AWS | Docker | Kubernetes | Terraform**
--  Practicing CI/CD with Jenkins
--  Goal: To become a DevOps Engineer
+<h3 align="center">
+  <b>Building Skills in Cloud & DevOps Engineering | Linux | AWS | Git | GitHub | GitLab | CI/CD | Jenkins | Terraform | Ansible | Docker | Kubernetes | Prometheus | Grafana</b>
+</h3>
 
 ---
+
 <br>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamAkshayjagtap&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
